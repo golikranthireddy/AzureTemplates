@@ -1,0 +1,2 @@
+# AzureTemplates
+simpleTemplate
